@@ -11,6 +11,9 @@ a {
 ul {
     list-style: none;
 }
+body{
+    background: darkcyan;
+}
 
 .container {
     max-width: 1140px;
@@ -131,7 +134,7 @@ ul {
     font-family: 'PR';
     font-size: 50px;
     font-weight: 400;
-    background: rgba(0, 0, 0, 0.70);
+    background: rgba(96, 55, 129, 0.7);
     padding: 16px 60px;
 }
 
